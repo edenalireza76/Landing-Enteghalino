@@ -1,0 +1,17 @@
+/*
+Theme Name: Enteghalino Landing
+Theme URI: https://github.com/moghadam-pro/Enteghalino
+Author: تیم پیکسی
+Author URI: https://github.com/pixitm
+Description: قالب لندینگ افزونه‌ی انتقالینو؛ معرفی انتقال کامل وردپرس و ووکامرس با انیمیشن انتقال، روند هفت‌ایستگاهی و فونت وزیرمتن. راست‌چین و واکنش‌گرا.
+Version: 1.1.0
+Requires at least: 6.3
+Tested up to: 6.8
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: enteghalino
+Tags: one-column, rtl-language-support, custom-menu, landing-page
+*/
+
+/* استایل‌های اصلی در assets/css/landing.css هستند و از functions.php بارگذاری می‌شوند. */
